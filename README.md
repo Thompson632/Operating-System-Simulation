@@ -1,2 +1,1 @@
-# Operating-System-Simulation
-# Operating-System-Simulation
+Operating system simulation using a memory, device, and file manager.
